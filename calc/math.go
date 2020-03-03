@@ -2,5 +2,5 @@ package calc
 
 func Add(i int, j int) int {
 
-  return i+j*2
+  return i+j
 }
